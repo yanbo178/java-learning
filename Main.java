@@ -12,5 +12,6 @@ public class Main {
         }
 
         System.out.println("数组总和：" + sum);
+        System.out.println("这段代码是在windows上编写的！");
     }
 }
